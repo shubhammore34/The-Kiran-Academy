@@ -5,6 +5,7 @@ public class Calculator3 {
         System.out.println(result);
         return 0; 
         //return n1; 
+        
         /*return keyword is used to return output to caller method */
     }
 }
